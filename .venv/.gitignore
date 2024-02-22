@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.idea
+.DS_Store
+/static_pages/*
+.venv
+.pre-commit-config.yaml
